@@ -16,7 +16,7 @@ using JFinM_Charts
 ## using Winston
 ## using Gadfly
 
-importall Base
+import Base
 ## importall Stats
 
 export #
